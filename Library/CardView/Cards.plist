@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cards</key>
+	<dict>
+		<key>220</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة ذهبية</string>
+			<key>englishDescription</key>
+			<string>Gold Card</string>
+		</dict>
+		<key>200</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة ذهبية</string>
+			<key>englishDescription</key>
+			<string>Gold Card</string>
+		</dict>
+		<key>400</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة مسبقة الدفع</string>
+			<key>englishDescription</key>
+			<string>Prepaid Card</string>
+		</dict>
+		<key>520</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة فيزا سيغنتشر</string>
+			<key>englishDescription</key>
+			<string>Visa Signature Card</string>
+		</dict>
+		<key>320</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة بلاتينية</string>
+			<key>englishDescription</key>
+			<string>Platinum Card</string>
+		</dict>
+		<key>300</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة بلاتينية</string>
+			<key>englishDescription</key>
+			<string>Platinum Card</string>
+		</dict>
+		<key>120</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة كلاسيك</string>
+			<key>englishDescription</key>
+			<string>Classic Card</string>
+		</dict>
+		<key>100</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة كلاسيك</string>
+			<key>englishDescription</key>
+			<string>Classic Card</string>
+		</dict>
+		<key>500</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة فيزا سيغنتشر</string>
+			<key>englishDescription</key>
+			<string>Visa Signature Card</string>
+		</dict>
+		<key>700</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>ماستر كارد وورلد</string>
+			<key>englishDescription</key>
+			<string>MasterCard World</string>
+		</dict>
+		<key>800</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>ماستر كارد وورلد ايليت</string>
+			<key>englishDescription</key>
+			<string>MasterCard World Elite</string>
+		</dict>
+		<key>820</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>ماستر كارد وورلد ايليت</string>
+			<key>englishDescription</key>
+			<string>MasterCard World Elite</string>
+		</dict>
+		<key>720</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>ماستر كارد وورلد</string>
+			<key>englishDescription</key>
+			<string>MasterCard World</string>
+		</dict>
+		<key>920</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة بلاتينية</string>
+			<key>englishDescription</key>
+			<string>Platinum Card</string>
+		</dict>
+		<key>900</key>
+		<dict>
+			<key>arabicDescription</key>
+			<string>بطاقة بلاتينية</string>
+			<key>englishDescription</key>
+			<string>Platinum Card</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
